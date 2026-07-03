@@ -37,7 +37,7 @@ public:
             // Hashes match
             if (windowHash == patternHash) {
                 if (haystack.substr(i - m + 1, m) == needle)
-                    return i - m + 1;
+                    return i - m + 1; //ending index-length+1
             }
         }
         return -1;
