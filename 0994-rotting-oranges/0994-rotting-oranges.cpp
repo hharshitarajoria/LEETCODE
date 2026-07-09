@@ -5,6 +5,7 @@ public:
         int m= grid[0].size();
         queue<pair<pair<int,int>,int>> q; //{{row,col},time}
         int vis[n][m];
+        int cntFresh=0;
         //initially which will be done everytime
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
@@ -15,11 +16,13 @@ public:
                 else{
                     vis[i][j]=0;
                 }
+                if(grid[i][j]==1) cntFresh++;
             }
         }
         int maxTime=0;
         int delRow[] ={-1,0,+1,0};
         int delCol[] ={0,+1,0,-1};
+        int cnt=0;
         while(!q.empty()){
             int r= q.front().first.first;
             int c= q.front().first.second;
@@ -37,14 +40,11 @@ public:
                      && vis[nrow][ncol] != 2 && grid[nrow][ncol] == 1 ){
                         q.push({{nrow,ncol},t+1});
                         vis[nrow][ncol]=2;
+                        cnt++; // everytime getting fresh time
                      }
             }
         }
-        for(int i=0;i<n;i++){
-            for( int j=0;j<m;j++){
-                if(vis[i][j] != 2 && grid[i][j]==1) return -1;
-            }
-        }
+        if(cnt != cntFresh) return -1;
         return maxTime;
     }
 };
