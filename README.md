@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/hharshitarajoria/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/hharshitarajoria/LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/hharshitarajoria/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/hharshitarajoria/LEETCODE/tree/master/0994-rotting-oranges) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/hharshitarajoria/LEETCODE/tree/master/0542-01-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -105,9 +107,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/hharshitarajoria/LEETCODE/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/hharshitarajoria/LEETCODE/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/hharshitarajoria/LEETCODE/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/hharshitarajoria/LEETCODE/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
