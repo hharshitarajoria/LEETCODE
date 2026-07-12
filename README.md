@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/hharshitarajoria/LEETCODE/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/hharshitarajoria/LEETCODE/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/hharshitarajoria/LEETCODE/tree/master/0165-compare-version-numbers) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0686-repeated-string-match](https://github.com/hharshitarajoria/LEETCODE/tree/master/0686-repeated-string-match) |
 ## String Matching
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hharshitarajoria/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/hharshitarajoria/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hharshitarajoria/LEETCODE/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/hharshitarajoria/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hharshitarajoria/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/hharshitarajoria/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/hharshitarajoria/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/hharshitarajoria/LEETCODE/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/hharshitarajoria/LEETCODE/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/hharshitarajoria/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -178,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hharshitarajoria/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
