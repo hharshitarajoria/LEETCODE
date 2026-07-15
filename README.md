@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/hharshitarajoria/LEETCODE/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0620-not-boring-movies) |
+| [1211-queries-quality-and-percentage](https://github.com/hharshitarajoria/LEETCODE/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/hharshitarajoria/LEETCODE/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/hharshitarajoria/LEETCODE/tree/master/1280-students-and-examinations) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/hharshitarajoria/LEETCODE/tree/master/1633-percentage-of-users-attended-a-contest) |
