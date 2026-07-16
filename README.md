@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hharshitarajoria/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/hharshitarajoria/LEETCODE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hharshitarajoria/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/hharshitarajoria/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hharshitarajoria/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/hharshitarajoria/LEETCODE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hharshitarajoria/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/hharshitarajoria/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/hharshitarajoria/LEETCODE/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hharshitarajoria/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Union-Find
 |  |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/hharshitarajoria/LEETCODE/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/hharshitarajoria/LEETCODE/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hharshitarajoria/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/hharshitarajoria/LEETCODE/tree/master/0802-find-eventual-safe-states) |
 ## Array
 |  |
@@ -283,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/hharshitarajoria/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hharshitarajoria/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/hharshitarajoria/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
