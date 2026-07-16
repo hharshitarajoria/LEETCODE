@@ -7,7 +7,7 @@ public:
             adj[it[1]].push_back({it[0], it[2]});
         }
         priority_queue<pair<long,long>, vector<pair<long,long>>, greater<pair<long,long>>> pq;
-        vector<long long> time(n,1e18);
+        vector<long long> time(n,1e18); // as mod= 1e9 so intially 1e18
         time[0]=0;
         pq.push({0,0});
         vector<int> ways(n,0);
