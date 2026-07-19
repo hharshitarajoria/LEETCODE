@@ -96,6 +96,7 @@ public:
                 mx = max(totalSize+1,mx);
             }
         }
+        // if grid contain all 1s
         for( int cellNo=0; cellNo< n*n; cellNo++){
                 mx = max(mx,ds.size[ds.findUPar(cellNo)]);
             }
