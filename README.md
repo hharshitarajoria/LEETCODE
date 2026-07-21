@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hharshitarajoria/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/hharshitarajoria/LEETCODE/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/hharshitarajoria/LEETCODE/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0165-compare-version-numbers](https://github.com/hharshitarajoria/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/hharshitarajoria/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0132-palindrome-partitioning-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0312-burst-balloons](https://github.com/hharshitarajoria/LEETCODE/tree/master/0312-burst-balloons) |
 | [0542-01-matrix](https://github.com/hharshitarajoria/LEETCODE/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hharshitarajoria/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
