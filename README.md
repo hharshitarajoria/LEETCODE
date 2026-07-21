@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/hharshitarajoria/LEETCODE/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/hharshitarajoria/LEETCODE/tree/master/0721-accounts-merge) |
 | [1106-parsing-a-boolean-expression](https://github.com/hharshitarajoria/LEETCODE/tree/master/1106-parsing-a-boolean-expression) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hharshitarajoria/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String Matching
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hharshitarajoria/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hharshitarajoria/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hharshitarajoria/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hharshitarajoria/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/hharshitarajoria/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hharshitarajoria/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/hharshitarajoria/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
