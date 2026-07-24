@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hharshitarajoria/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/hharshitarajoria/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hharshitarajoria/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0085-maximal-rectangle](https://github.com/hharshitarajoria/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
