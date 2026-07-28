@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hharshitarajoria/LEETCODE/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/hharshitarajoria/LEETCODE/tree/master/0312-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/hharshitarajoria/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/hharshitarajoria/LEETCODE/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/hharshitarajoria/LEETCODE/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/hharshitarajoria/LEETCODE/tree/master/0778-swim-in-rising-water) |
