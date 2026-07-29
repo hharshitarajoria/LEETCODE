@@ -1,37 +1,44 @@
 class Solution {
 public:
-    int lowerBound(vector<int>& nums, int target,int low,int high){
-        int ans=nums.size();
+    int findFirst(vector<int>& nums, int target,int n){
+        int low=0, high= n-1, first=-1;
         while(low<=high){
-            int mid=(low+high)/2;
-            if(nums[mid]>= target){
-                    ans= mid;
-                    high= mid-1;
-                }
-            else{
-                    low=mid+1;
-                }
+            int mid= (low+high)/2;
+            if(nums[mid]==target){
+                first=mid;
+                high= mid-1;
             }
-        return ans;
+            else if(nums[mid]>target){
+                high= mid-1;
+            }
+            else{
+                low = mid+1;
+            }
+        }
+        return first;
     }
-    int upperBound(vector<int>& nums, int target,int low,int high){
-        int ans=nums.size();
+    int findLast(vector<int>& nums, int target,int n){
+        int low=0, high=n-1, last=-1;
         while(low<=high){
-            int mid=(low+high)/2;
-            if(nums[mid]>target){
-                    ans= mid;
-                    high= mid-1;
-                }
-            else{
-                    low=mid+1;
-                }
+            int mid= (low+high)/2;
+            if(nums[mid]==target){
+                last=mid;
+                low = mid+1;
             }
-        return ans;
+            else if(nums[mid]>target){
+                high= mid-1;
+            }
+            else{
+                low = mid+1;
+            }
+        }
+        return last;
     }
     vector<int> searchRange(vector<int>& nums, int target) {
-        int n= nums.size();
-        int lb= lowerBound(nums,target,0,n-1);
-        if(lb==n || nums[lb]!=target) return {-1,-1};
-        return {lb , upperBound(nums,target,0,n-1) - 1};
+        int n=nums.size();
+        int first= findFirst(nums,target,n);
+        if(first==-1) return {-1,-1};
+        int last = findLast(nums,target,n);
+        return {first,last};
     }
 };
