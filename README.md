@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/hharshitarajoria/LEETCODE/tree/master/0312-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/hharshitarajoria/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/hharshitarajoria/LEETCODE/tree/master/0542-01-matrix) |
+| [0704-binary-search](https://github.com/hharshitarajoria/LEETCODE/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/hharshitarajoria/LEETCODE/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/hharshitarajoria/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/hharshitarajoria/LEETCODE/tree/master/0827-making-a-large-island) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/hharshitarajoria/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/hharshitarajoria/LEETCODE/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/hharshitarajoria/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/hharshitarajoria/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
