@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/hharshitarajoria/LEETCODE/tree/master/0312-burst-balloons) |
 | [0542-01-matrix](https://github.com/hharshitarajoria/LEETCODE/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hharshitarajoria/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/hharshitarajoria/LEETCODE/tree/master/0877-stone-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/1043-partition-array-for-maximum-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hharshitarajoria/LEETCODE/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/hharshitarajoria/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/hharshitarajoria/LEETCODE/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/hharshitarajoria/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/hharshitarajoria/LEETCODE/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/hharshitarajoria/LEETCODE/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/hharshitarajoria/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hharshitarajoria/LEETCODE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/hharshitarajoria/LEETCODE/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hharshitarajoria/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hharshitarajoria/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -435,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hharshitarajoria/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/hharshitarajoria/LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
