@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hharshitarajoria/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/hharshitarajoria/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hharshitarajoria/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/hharshitarajoria/LEETCODE/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/hharshitarajoria/LEETCODE/tree/master/0076-minimum-window-substring) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hharshitarajoria/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/hharshitarajoria/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hharshitarajoria/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -510,4 +512,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/hharshitarajoria/LEETCODE/tree/master/0493-reverse-pairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hharshitarajoria/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
