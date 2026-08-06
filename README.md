@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/hharshitarajoria/LEETCODE/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/hharshitarajoria/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0496-next-greater-element-i](https://github.com/hharshitarajoria/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/hharshitarajoria/LEETCODE/tree/master/1106-parsing-a-boolean-expression) |
 ## Tree
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/hharshitarajoria/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/hharshitarajoria/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/hharshitarajoria/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/hharshitarajoria/LEETCODE/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/hharshitarajoria/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/hharshitarajoria/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/hharshitarajoria/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
