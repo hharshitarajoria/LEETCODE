@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hharshitarajoria/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/hharshitarajoria/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/hharshitarajoria/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0189-rotate-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hharshitarajoria/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/hharshitarajoria/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/hharshitarajoria/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hharshitarajoria/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hharshitarajoria/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/hharshitarajoria/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/hharshitarajoria/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/hharshitarajoria/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/hharshitarajoria/LEETCODE/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/hharshitarajoria/LEETCODE/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hharshitarajoria/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/hharshitarajoria/LEETCODE/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/hharshitarajoria/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0503-next-greater-element-ii) |
