@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/hharshitarajoria/LEETCODE/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/hharshitarajoria/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/hharshitarajoria/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/hharshitarajoria/LEETCODE/tree/master/1106-parsing-a-boolean-expression) |
 ## Tree
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/hharshitarajoria/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/hharshitarajoria/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/hharshitarajoria/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hharshitarajoria/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/hharshitarajoria/LEETCODE/tree/master/0721-accounts-merge) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/hharshitarajoria/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/hharshitarajoria/LEETCODE/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/hharshitarajoria/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/hharshitarajoria/LEETCODE/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/hharshitarajoria/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/hharshitarajoria/LEETCODE/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/hharshitarajoria/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
