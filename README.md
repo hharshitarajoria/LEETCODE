@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/hharshitarajoria/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hharshitarajoria/LEETCODE/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hharshitarajoria/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hharshitarajoria/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hharshitarajoria/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/hharshitarajoria/LEETCODE/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/hharshitarajoria/LEETCODE/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hharshitarajoria/LEETCODE/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/hharshitarajoria/LEETCODE/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/hharshitarajoria/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/hharshitarajoria/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/hharshitarajoria/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/hharshitarajoria/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0455-assign-cookies) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/hharshitarajoria/LEETCODE/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0455-assign-cookies) |
 ## Binary Indexed Tree
 |  |
 | ------- |
