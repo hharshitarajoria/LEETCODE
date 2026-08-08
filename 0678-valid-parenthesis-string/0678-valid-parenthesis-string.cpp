@@ -1,26 +1,26 @@
 class Solution {
 public:
     bool checkValidString(string s) {
-        int minOpen = 0;
-        int maxOpen = 0;
-        for (char c : s) {
-            if (c == '(') {
-                minOpen++;
-                maxOpen++;
+        int n=s.size();
+        int min =0, max=0;
+        for(int i=0;i<n;i++){
+            if(s[i]=='('){
+                min++;
+                max++;
             }
-            else if (c == ')') {
-                minOpen--;
-                maxOpen--;
+            else if(s[i]==')'){
+                min--;
+                max--;
             }
-            else { // '*'
-                minOpen--;  // '*' acts as ')'
-                maxOpen++;  // '*' acts as '('
+            else{
+                min--;
+                max++;
             }
-            if (maxOpen < 0)
-                return false;
-            if (minOpen < 0)
-                minOpen = 0;
+            if(min<0) min=0;
+            if(max<0) return false;
         }
-        return minOpen == 0;
+        if(min==0) return true;
+
+        return false;
     }
 };
