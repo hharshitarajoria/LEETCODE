@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hharshitarajoria/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/hharshitarajoria/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/hharshitarajoria/LEETCODE/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/hharshitarajoria/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0312-burst-balloons](https://github.com/hharshitarajoria/LEETCODE/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/hharshitarajoria/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/hharshitarajoria/LEETCODE/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/hharshitarajoria/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hharshitarajoria/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/hharshitarajoria/LEETCODE/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/hharshitarajoria/LEETCODE/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/hharshitarajoria/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/hharshitarajoria/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/hharshitarajoria/LEETCODE/tree/master/0493-reverse-pairs) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/hharshitarajoria/LEETCODE/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/hharshitarajoria/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/hharshitarajoria/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/hharshitarajoria/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/hharshitarajoria/LEETCODE/tree/master/0860-lemonade-change) |
