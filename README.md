@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/hharshitarajoria/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/hharshitarajoria/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/hharshitarajoria/LEETCODE/tree/master/0827-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/hharshitarajoria/LEETCODE/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/hharshitarajoria/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/hharshitarajoria/LEETCODE/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/hharshitarajoria/LEETCODE/tree/master/0907-sum-of-subarray-minimums) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/hharshitarajoria/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/hharshitarajoria/LEETCODE/tree/master/0860-lemonade-change) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
