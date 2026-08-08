@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/hharshitarajoria/LEETCODE/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/hharshitarajoria/LEETCODE/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/hharshitarajoria/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/hharshitarajoria/LEETCODE/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/hharshitarajoria/LEETCODE/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/hharshitarajoria/LEETCODE/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hharshitarajoria/LEETCODE/tree/master/0435-non-overlapping-intervals) |
