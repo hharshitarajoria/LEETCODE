@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/hharshitarajoria/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/hharshitarajoria/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/0268-missing-number) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Divide and Conquer
 |  |
 | ------- |
