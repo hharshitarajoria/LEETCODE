@@ -4,7 +4,7 @@ public:
         int n= nums.size();
         if(n%k != 0) return false;
         sort(nums.begin(),nums.end());
-        unordered_map<int,int> mpp;
+        map<int,int> mpp;
         for(auto x: nums){
             mpp[x]++;
         }
