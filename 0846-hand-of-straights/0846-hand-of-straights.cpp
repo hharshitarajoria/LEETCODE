@@ -4,7 +4,7 @@ public:
         int n= hand.size();
         if(n%groupSize != 0) return false;
         sort(hand.begin(),hand.end());
-        map<int,int> mpp;
+        unordered_map<int,int> mpp;
         for(int i=0 ;i<n;i++){
             mpp[hand[i]]++;
         }
