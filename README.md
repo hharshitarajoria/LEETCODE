@@ -427,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hharshitarajoria/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hharshitarajoria/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Design
 |  |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hharshitarajoria/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/hharshitarajoria/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/hharshitarajoria/LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/hharshitarajoria/LEETCODE/tree/master/0050-powx-n) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hharshitarajoria/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/hharshitarajoria/LEETCODE/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/hharshitarajoria/LEETCODE/tree/master/0231-power-of-two) |
 | [1106-parsing-a-boolean-expression](https://github.com/hharshitarajoria/LEETCODE/tree/master/1106-parsing-a-boolean-expression) |
