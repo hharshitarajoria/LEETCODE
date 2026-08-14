@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hharshitarajoria/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/hharshitarajoria/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/hharshitarajoria/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/hharshitarajoria/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/hharshitarajoria/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hharshitarajoria/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/hharshitarajoria/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/hharshitarajoria/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/hharshitarajoria/LEETCODE/tree/master/0621-task-scheduler) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hharshitarajoria/LEETCODE/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/hharshitarajoria/LEETCODE/tree/master/0312-burst-balloons) |
+| [0347-top-k-frequent-elements](https://github.com/hharshitarajoria/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/hharshitarajoria/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0455-assign-cookies) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hharshitarajoria/LEETCODE/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/hharshitarajoria/LEETCODE/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/hharshitarajoria/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/hharshitarajoria/LEETCODE/tree/master/0493-reverse-pairs) |
 ## Linked List
 |  |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/hharshitarajoria/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hharshitarajoria/LEETCODE/tree/master/0621-task-scheduler) |
 | [0778-swim-in-rising-water](https://github.com/hharshitarajoria/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hharshitarajoria/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -545,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/hharshitarajoria/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/hharshitarajoria/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/hharshitarajoria/LEETCODE/tree/master/0621-task-scheduler) |
 ## Simulation
 |  |
@@ -636,4 +642,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hharshitarajoria/LEETCODE/tree/master/0204-count-primes) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hharshitarajoria/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hharshitarajoria/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
