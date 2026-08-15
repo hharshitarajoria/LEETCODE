@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/hharshitarajoria/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/hharshitarajoria/LEETCODE/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/hharshitarajoria/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/hharshitarajoria/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/hharshitarajoria/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -433,12 +434,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/hharshitarajoria/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hharshitarajoria/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0355-design-twitter](https://github.com/hharshitarajoria/LEETCODE/tree/master/0355-design-twitter) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/hharshitarajoria/LEETCODE/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/hharshitarajoria/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/hharshitarajoria/LEETCODE/tree/master/0355-design-twitter) |
 | [0901-online-stock-span](https://github.com/hharshitarajoria/LEETCODE/tree/master/0901-online-stock-span) |
 ## Database
 |  |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/hharshitarajoria/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/hharshitarajoria/LEETCODE/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/hharshitarajoria/LEETCODE/tree/master/0621-task-scheduler) |
 | [0778-swim-in-rising-water](https://github.com/hharshitarajoria/LEETCODE/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/hharshitarajoria/LEETCODE/tree/master/0787-cheapest-flights-within-k-stops) |
