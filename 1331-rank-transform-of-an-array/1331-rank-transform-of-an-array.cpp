@@ -2,23 +2,24 @@ class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
         int n= arr.size();
-        vector<int> indices(n);
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
         for(int i=0;i<n;i++){
-            indices[i]=i;
+            //{value,originalindex}
+            pq.push({arr[i],i});
         }
-        sort(indices.begin(), indices.end(), [&](int a, int b) {
-            return arr[a] < arr[b];
-        });
-        
         vector<int> ans(n);
         int rank=0;
         int prev = INT_MAX;
-        for(int ind=0;ind<n;ind++){
-            if(prev!=arr[indices[ind]]){
-                prev=arr[indices[ind]];
+        while(!pq.empty()) {
+            int value = pq.top().first;
+            int index = pq.top().second;
+            pq.pop();
+            // Increase rank only for a new value
+            if(value != prev) {
                 rank++;
+                prev = value;
             }
-            ans[indices[ind]]=rank;
+            ans[index] = rank;
         }
         return ans;
     }
