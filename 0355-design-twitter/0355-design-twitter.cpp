@@ -12,36 +12,40 @@ public:
         tweetMap[userId].push_back({tweetId,time});
     } 
     vector<int> getNewsFeed(int userId) {
-        vector<pair<int,int>> allTweets;
-        for(auto tweet : tweetMap[userId]) {
-            allTweets.push_back(tweet);
+        // {time,{user,ind}}
+        priority_queue<pair<int,pair<int,int>>> pq;
+        if(!tweetMap[userId].empty()){
+            int index= tweetMap[userId].size()-1;
+            pq.push({tweetMap[userId][index].second,{userId,index}});
         }
-        // Add tweets of people user follows
-        for(int followee : followMap[userId]) {
-            for(auto tweet : tweetMap[followee]) {
-                allTweets.push_back(tweet);
+        for(auto followee: followMap[userId]){
+            if(!tweetMap[followee].empty()){
+                int index= tweetMap[followee].size()-1;
+                pq.push({tweetMap[followee][index].second,{followee,index}});
             }
         }
-        sort(allTweets.begin(), allTweets.end(),
-            [](pair<int,int>& a, pair<int,int>& b) {
-                return a.second > b.second;
-            });
-        
         vector<int> ans;
-        for(int i=0; i< min(10, (int)allTweets.size());i++){
-            ans.push_back(allTweets[i].first);
+        while(!pq.empty() && ans.size()<10){
+            auto top = pq.top();
+            int time = top.first;
+            int user = top.second.first;
+            int ind = top.second.second;
+            pq.pop();
+            ans.push_back(tweetMap[top.second.first][top.second.second].first);
+            ind--;
+            if(ind>=0){
+                pq.push({tweetMap[user][ind].second,{user,ind}});
+            }
         }
         return ans;
     } 
     void follow(int followerId, int followeeId) {
         followMap[followerId].insert(followeeId);
     }
-    
     void unfollow(int followerId, int followeeId) {
         followMap[followerId].erase(followeeId);
     }
 };
-
 /**
  * Your Twitter object will be instantiated and called as such:
  * Twitter* obj = new Twitter();
