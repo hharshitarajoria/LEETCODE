@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/hharshitarajoria/LEETCODE/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/hharshitarajoria/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hharshitarajoria/LEETCODE/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/hharshitarajoria/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/hharshitarajoria/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hharshitarajoria/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hharshitarajoria/LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/hharshitarajoria/LEETCODE/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/hharshitarajoria/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hharshitarajoria/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/hharshitarajoria/LEETCODE/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/hharshitarajoria/LEETCODE/tree/master/0455-assign-cookies) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/hharshitarajoria/LEETCODE/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/hharshitarajoria/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/hharshitarajoria/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/hharshitarajoria/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/hharshitarajoria/LEETCODE/tree/master/0355-design-twitter) |
 | [0901-online-stock-span](https://github.com/hharshitarajoria/LEETCODE/tree/master/0901-online-stock-span) |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hharshitarajoria/LEETCODE/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/hharshitarajoria/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hharshitarajoria/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/hharshitarajoria/LEETCODE/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/hharshitarajoria/LEETCODE/tree/master/0621-task-scheduler) |
@@ -632,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hharshitarajoria/LEETCODE/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/hharshitarajoria/LEETCODE/tree/master/0901-online-stock-span) |
 ## Enumeration
 |  |
