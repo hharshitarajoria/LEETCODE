@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/hharshitarajoria/LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/hharshitarajoria/LEETCODE/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hharshitarajoria/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/hharshitarajoria/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/hharshitarajoria/LEETCODE/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/hharshitarajoria/LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/hharshitarajoria/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Game Theory
 |  |
 | ------- |
